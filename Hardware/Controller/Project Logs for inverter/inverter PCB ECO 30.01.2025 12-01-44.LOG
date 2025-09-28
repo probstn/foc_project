@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=Inverter Member=P2
+Removed Member From Class: ClassName=Inverter Member=P3
+Added Component: Designator=PA(PAD_5x2,25)
+Added Component: Designator=PB(PAD_5x2,25)
+Added Component: Designator=PC(PAD_5x2,25)
+Added Pin To Net: NetName=NetPA_1 Pin=PA-1
+Added Pin To Net: NetName=NetPA_1 Pin=R6-1
+Added Pin To Net: NetName=NetPA_1 Pin=U3-3
+Added Net: Name=NetPA_1
+Added Pin To Net: NetName=NetPB_1 Pin=PB-1
+Added Pin To Net: NetName=NetPB_1 Pin=R13-1
+Added Pin To Net: NetName=NetPB_1 Pin=U5-3
+Added Net: Name=NetPB_1
+Added Pin To Net: NetName=NetPC_1 Pin=PC-1
+Added Pin To Net: NetName=NetPC_1 Pin=R20-1
+Added Pin To Net: NetName=NetPC_1 Pin=U7-3
+Added Net: Name=NetPC_1
+Added Member To Class: ClassName=Inverter Member=Component PA PAD_5x2.25
+Added Member To Class: ClassName=Inverter Member=Component PB PAD_5x2.25
+Added Member To Class: ClassName=Inverter Member=Component PC PAD_5x2.25

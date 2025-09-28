@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=+100V Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=+100V Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=+100V Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=+100V Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=+100V Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=+100V Pin=C26-2
+Removed Member From Class: ClassName=Inverter Member=C11
+Removed Member From Class: ClassName=Inverter Member=C32
+Removed Member From Class: ClassName=Inverter Member=C38
+Removed Member From Class: ClassName=Power Member=C38
+Removed Member From Class: ClassName=Power Member=C39
+Removed Member From Class: ClassName=Inverter Member=C40
+Removed Member From Class: ClassName=Power Member=C40
+Removed Member From Class: ClassName=Gyro Member=U11
+Added Member To Class: ClassName=Inverter Member=Component C14 100n
+Added Member To Class: ClassName=Inverter Member=Component C24 4u7
+Added Member To Class: ClassName=Inverter Member=Component C27 100n 100V
+Added Member To Class: ClassName=Power Member=Component C31 2n2
+Added Member To Class: ClassName=Power Member=Component C33 16V 47u
+Added Member To Class: ClassName=Power Member=Component C34 16V 47u
+Added Member To Class: ClassName=Power Member=Component C35 16V 47u
+Added Member To Class: ClassName=Power Member=Component C36 16V 47u
+Added Member To Class: ClassName=Power Member=Component C37 10u
+Added Member To Class: ClassName=Inverter Member=Component R10 SHUNT_0m2_3920
+Added Member To Class: ClassName=Inverter Member=Component R15 SHUNT_0m2_3920
+Added Member To Class: ClassName=Inverter Member=Component U2 UCC27282DR
+Added Member To Class: ClassName=Gyro Member=Component U12 LSM6DS3TR-C

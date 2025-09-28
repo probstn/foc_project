@@ -1,0 +1,99 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=+3V3 Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=+3V3 Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=+3V3 Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=+3V3 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=+3V3 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q1-4
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=+3V3 Pin=U1-1
+Removed Pin From Net: NetName=LOW_A Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=+3V3 Pin=U1-9
+Removed Pin From Net: NetName=VOLT_A Pin=U1-10
+Removed Pin From Net: NetName=VOLT_B Pin=U1-11
+Removed Pin From Net: NetName=VOLT_C Pin=U1-12
+Removed Pin From Net: NetName=GND Pin=U1-23
+Removed Pin From Net: NetName=GND Pin=U1-24
+Removed Pin From Net: NetName=TEMP_INVERTER Pin=U1-25
+Removed Pin From Net: NetName=LOW_B Pin=U1-27
+Removed Pin From Net: NetName=LOW_C Pin=U1-28
+Removed Pin From Net: NetName=HIGH_A Pin=U1-29
+Removed Pin From Net: NetName=HIGH_B Pin=U1-30
+Removed Pin From Net: NetName=HIGH_C Pin=U1-31
+Removed Pin From Net: NetName=GND Pin=U1-35
+Removed Pin From Net: NetName=+3V3 Pin=U1-36
+Removed Pin From Net: NetName=GND Pin=U1-47
+Removed Pin From Net: NetName=+3V3 Pin=U1-48
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=GND Pin=U12-6
+Added Pin To Net: NetName=GND Pin=U12-7
+Change Net Name : Old Net Name=TEMP_INVERTER New Net Name=NetC33_2
+Change Net Name : Old Net Name=VOLT_A New Net Name=NetC15_2
+Change Net Name : Old Net Name=VOLT_B New Net Name=NetC23_2
+Change Net Name : Old Net Name=VOLT_C New Net Name=NetC31_2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetPH2_1 Pin=PH2-1
+Added Net: Name=NetPH2_1
+Added Pin To Net: NetName=NetPH2_2 Pin=PH2-2
+Added Net: Name=NetPH2_2
+Added Pin To Net: NetName=NetPH2_3 Pin=PH2-3
+Added Net: Name=NetPH2_3
+Added Pin To Net: NetName=NetPH2_4 Pin=PH2-4
+Added Net: Name=NetPH2_4
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=R27-2
+Added Net: Name=NetR26_1
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=NetR28_1 Pin=U12-13
+Added Net: Name=NetR28_1
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetR29_1 Pin=U12-14
+Added Net: Name=NetR29_1
+Added Pin To Net: NetName=NetU3_1 Pin=U3-1
+Added Net: Name=NetU3_1
+Added Pin To Net: NetName=NetU5_1 Pin=U5-1
+Added Net: Name=NetU5_1
+Added Pin To Net: NetName=NetU7_1 Pin=U7-1
+Added Net: Name=NetU7_1
+Added Pin To Net: NetName=NetU11_1 Pin=U11-1
+Added Net: Name=NetU11_1
+Added Pin To Net: NetName=NetU11_4 Pin=U11-4
+Added Net: Name=NetU11_4
+Added Pin To Net: NetName=NetUSB1_5 Pin=USB1-5
+Added Pin To Net: NetName=NetUSB1_5 Pin=USB1-7
+Added Net: Name=NetUSB1_5
+Added Pin To Net: NetName=NetUSB1_6 Pin=USB1-6
+Added Pin To Net: NetName=NetUSB1_6 Pin=USB1-8
+Added Net: Name=NetUSB1_6
+Added Pin To Net: NetName=NetXH1_3 Pin=XH1-3
+Added Net: Name=NetXH1_3
+Added Pin To Net: NetName=NetXH2_3 Pin=XH2-3
+Added Net: Name=NetXH2_3
+Added Pin To Net: NetName=NetXH3_3 Pin=XH3-3
+Added Net: Name=NetXH3_3
+Added Pin To Net: NetName=NetXH4_3 Pin=XH4-3
+Added Net: Name=NetXH4_3
+Added Pin To Net: NetName=NetXH6_1 Pin=XH6-1
+Added Net: Name=NetXH6_1
+Added Pin To Net: NetName=NetXH6_2 Pin=XH6-2
+Added Net: Name=NetXH6_2
+Added Pin To Net: NetName=NetXH6_3 Pin=XH6-3
+Added Net: Name=NetXH6_3
+Added Pin To Net: NetName=NetXH6_4 Pin=XH6-4
+Added Net: Name=NetXH6_4
+Added Pin To Net: NetName=NetXH7_2 Pin=XH7-2
+Added Net: Name=NetXH7_2
+Added Pin To Net: NetName=NetXH7_3 Pin=XH7-3
+Added Net: Name=NetXH7_3

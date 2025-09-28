@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=GND Pin=U12-6
+Added Pin To Net: NetName=GND Pin=U12-7
+Added Member To Class: ClassName=STM32 Member=Component C1 10p
+Added Member To Class: ClassName=STM32 Member=Component C2 10p
+Added Member To Class: ClassName=STM32 Member=Component C3 100n
+Added Member To Class: ClassName=STM32 Member=Component C4 1u
+Added Member To Class: ClassName=STM32 Member=Component C5 100n
+Added Member To Class: ClassName=STM32 Member=Component C6 100n
+Added Member To Class: ClassName=STM32 Member=Component C7 100n
+Added Member To Class: ClassName=STM32 Member=Component C8 100n
+Added Member To Class: ClassName=STM32 Member=Component Q1 OSC_24M
+Added Member To Class: ClassName=STM32 Member=Component R1 22R
+Added Member To Class: ClassName=STM32 Member=Component R2 0R
+Added Member To Class: ClassName=STM32 Member=Component U1 STM32F303CBT6

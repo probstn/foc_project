@@ -1,0 +1,376 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=+12V Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=+3V3 Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=+3V3 Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=+3V3 Pin=C12-2
+Removed Pin From Net: NetName=SH_A Pin=C14-1
+Removed Pin From Net: NetName=HB_A Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=+12V Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=SH_B Pin=C22-1
+Removed Pin From Net: NetName=HB_B Pin=C22-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=+12V Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=SH_C Pin=C31-1
+Removed Pin From Net: NetName=HB_C Pin=C31-2
+Removed Pin From Net: NetName=GND Pin=C33-1
+Removed Pin From Net: NetName=SH_A Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=SH_B Pin=R14-2
+Removed Pin From Net: NetName=GND Pin=R21-1
+Removed Pin From Net: NetName=SH_C Pin=R24-2
+Removed Pin From Net: NetName=GND Pin=R25-1
+Removed Pin From Net: NetName=SH_A Pin=U2-2
+Removed Pin From Net: NetName=PH_A Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=+3V3 Pin=U2-5
+Removed Pin From Net: NetName=+3V3 Pin=U2-6
+Removed Pin From Net: NetName=GND Pin=U2-7
+Removed Pin From Net: NetName=+12V Pin=U3-1
+Removed Pin From Net: NetName=HB_A Pin=U3-2
+Removed Pin From Net: NetName=HG_A Pin=U3-3
+Removed Pin From Net: NetName=SH_A Pin=U3-4
+Removed Pin From Net: NetName=GND Pin=U3-7
+Removed Pin From Net: NetName=LG_A Pin=U3-8
+Removed Pin From Net: NetName=SH_B Pin=U4-2
+Removed Pin From Net: NetName=PH_B Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U4-4
+Removed Pin From Net: NetName=+3V3 Pin=U4-5
+Removed Pin From Net: NetName=+3V3 Pin=U4-6
+Removed Pin From Net: NetName=GND Pin=U4-7
+Removed Pin From Net: NetName=+12V Pin=U5-1
+Removed Pin From Net: NetName=HB_B Pin=U5-2
+Removed Pin From Net: NetName=HG_B Pin=U5-3
+Removed Pin From Net: NetName=SH_B Pin=U5-4
+Removed Pin From Net: NetName=GND Pin=U5-7
+Removed Pin From Net: NetName=LG_B Pin=U5-8
+Removed Pin From Net: NetName=SH_C Pin=U6-2
+Removed Pin From Net: NetName=PH_C Pin=U6-3
+Removed Pin From Net: NetName=GND Pin=U6-4
+Removed Pin From Net: NetName=+3V3 Pin=U6-5
+Removed Pin From Net: NetName=+3V3 Pin=U6-6
+Removed Pin From Net: NetName=GND Pin=U6-7
+Removed Pin From Net: NetName=+12V Pin=U7-1
+Removed Pin From Net: NetName=HB_C Pin=U7-2
+Removed Pin From Net: NetName=HG_C Pin=U7-3
+Removed Pin From Net: NetName=SH_C Pin=U7-4
+Removed Pin From Net: NetName=GND Pin=U7-7
+Removed Pin From Net: NetName=LG_C Pin=U7-8
+Removed Member From Class: ClassName=PhaseA Member=C9
+Removed Member From Class: ClassName=PhaseA Member=C10
+Removed Member From Class: ClassName=PhaseB Member=C11
+Removed Member From Class: ClassName=PhaseC Member=C12
+Removed Member From Class: ClassName=PhaseA Member=C14
+Removed Member From Class: ClassName=PhaseA Member=C16
+Removed Member From Class: ClassName=PhaseB Member=C17
+Removed Member From Class: ClassName=PhaseB Member=C22
+Removed Member From Class: ClassName=PhaseB Member=C25
+Removed Member From Class: ClassName=PhaseC Member=C30
+Removed Member From Class: ClassName=PhaseC Member=C31
+Removed Member From Class: ClassName=PhaseC Member=C33
+Removed Member From Class: ClassName=PhaseA Member=R5
+Removed Member From Class: ClassName=PhaseA Member=R7
+Removed Member From Class: ClassName=PhaseB Member=R14
+Removed Member From Class: ClassName=PhaseB Member=R21
+Removed Member From Class: ClassName=PhaseC Member=R24
+Removed Member From Class: ClassName=PhaseC Member=R25
+Removed Member From Class: ClassName=PhaseA Member=U2
+Removed Member From Class: ClassName=PhaseA Member=U3
+Removed Member From Class: ClassName=PhaseB Member=U4
+Removed Member From Class: ClassName=PhaseB Member=U5
+Removed Member From Class: ClassName=PhaseC Member=U6
+Removed Member From Class: ClassName=PhaseC Member=U7
+Added Component: Designator=C9_A(CAP_1210)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C77101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM32ER61C476KE15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C9_B(CAP_1210)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C77101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM32ER61C476KE15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C9_C(CAP_1210)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C77101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM32ER61C476KE15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C10_A(CAP_0603)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10_B(CAP_0603)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10_C(CAP_0603)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14_A(CAP_0603)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14_B(CAP_0603)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14_C(CAP_0603)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C16_A(CAP_0603)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C16_B(CAP_0603)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C16_C(CAP_0603)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5_A(RES_0603)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5_B(RES_0603)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5_C(RES_0603)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7_A(RES_0603)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7_B(RES_0603)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7_C(RES_0603)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2_A(INA240A1PWR)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C93965"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "INA240A1PWR"; VariantName = "[No Variations]"
+Added Component: Designator=U2_B(INA240A1PWR)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C93965"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "INA240A1PWR"; VariantName = "[No Variations]"
+Added Component: Designator=U2_C(INA240A1PWR)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C93965"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "INA240A1PWR"; VariantName = "[No Variations]"
+Added Component: Designator=U3_A(UCC27282DR)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2867844"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "UCC27282DR"; VariantName = "[No Variations]"
+Added Component: Designator=U3_B(UCC27282DR)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2867844"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "UCC27282DR"; VariantName = "[No Variations]"
+Added Component: Designator=U3_C(UCC27282DR)
+Add component (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2867844"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "UCC27282DR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C9_A-1
+Added Pin To Net: NetName=+12V Pin=C9_A-2
+Added Pin To Net: NetName=GND Pin=C9_B-1
+Added Pin To Net: NetName=+12V Pin=C9_B-2
+Added Pin To Net: NetName=GND Pin=C9_C-1
+Added Pin To Net: NetName=+12V Pin=C9_C-2
+Added Pin To Net: NetName=GND Pin=C10_A-1
+Added Pin To Net: NetName=+3V3 Pin=C10_A-2
+Added Pin To Net: NetName=GND Pin=C10_B-1
+Added Pin To Net: NetName=+3V3 Pin=C10_B-2
+Added Pin To Net: NetName=GND Pin=C10_C-1
+Added Pin To Net: NetName=+3V3 Pin=C10_C-2
+Added Pin To Net: NetName=SH_A Pin=C14_A-1
+Added Pin To Net: NetName=HB_A Pin=C14_A-2
+Added Pin To Net: NetName=SH_B Pin=C14_B-1
+Added Pin To Net: NetName=HB_B Pin=C14_B-2
+Added Pin To Net: NetName=SH_C Pin=C14_C-1
+Added Pin To Net: NetName=HB_C Pin=C14_C-2
+Added Pin To Net: NetName=GND Pin=C16_A-1
+Added Pin To Net: NetName=GND Pin=C16_B-1
+Added Pin To Net: NetName=GND Pin=C16_C-1
+Added Pin To Net: NetName=SH_A Pin=R5_A-2
+Added Pin To Net: NetName=SH_B Pin=R5_B-2
+Added Pin To Net: NetName=SH_C Pin=R5_C-2
+Added Pin To Net: NetName=GND Pin=R7_A-1
+Added Pin To Net: NetName=GND Pin=R7_B-1
+Added Pin To Net: NetName=GND Pin=R7_C-1
+Added Pin To Net: NetName=SH_A Pin=U2_A-2
+Added Pin To Net: NetName=PH_A Pin=U2_A-3
+Added Pin To Net: NetName=GND Pin=U2_A-4
+Added Pin To Net: NetName=+3V3 Pin=U2_A-5
+Added Pin To Net: NetName=+3V3 Pin=U2_A-6
+Added Pin To Net: NetName=GND Pin=U2_A-7
+Added Pin To Net: NetName=SH_B Pin=U2_B-2
+Added Pin To Net: NetName=PH_B Pin=U2_B-3
+Added Pin To Net: NetName=GND Pin=U2_B-4
+Added Pin To Net: NetName=+3V3 Pin=U2_B-5
+Added Pin To Net: NetName=+3V3 Pin=U2_B-6
+Added Pin To Net: NetName=GND Pin=U2_B-7
+Added Pin To Net: NetName=SH_C Pin=U2_C-2
+Added Pin To Net: NetName=PH_C Pin=U2_C-3
+Added Pin To Net: NetName=GND Pin=U2_C-4
+Added Pin To Net: NetName=+3V3 Pin=U2_C-5
+Added Pin To Net: NetName=+3V3 Pin=U2_C-6
+Added Pin To Net: NetName=GND Pin=U2_C-7
+Added Pin To Net: NetName=+12V Pin=U3_A-1
+Added Pin To Net: NetName=HB_A Pin=U3_A-2
+Added Pin To Net: NetName=HG_A Pin=U3_A-3
+Added Pin To Net: NetName=SH_A Pin=U3_A-4
+Added Pin To Net: NetName=GND Pin=U3_A-7
+Added Pin To Net: NetName=LG_A Pin=U3_A-8
+Added Pin To Net: NetName=+12V Pin=U3_B-1
+Added Pin To Net: NetName=HB_B Pin=U3_B-2
+Added Pin To Net: NetName=HG_B Pin=U3_B-3
+Added Pin To Net: NetName=SH_B Pin=U3_B-4
+Added Pin To Net: NetName=GND Pin=U3_B-7
+Added Pin To Net: NetName=LG_B Pin=U3_B-8
+Added Pin To Net: NetName=+12V Pin=U3_C-1
+Added Pin To Net: NetName=HB_C Pin=U3_C-2
+Added Pin To Net: NetName=HG_C Pin=U3_C-3
+Added Pin To Net: NetName=SH_C Pin=U3_C-4
+Added Pin To Net: NetName=GND Pin=U3_C-7
+Added Pin To Net: NetName=LG_C Pin=U3_C-8
+Added Pin To Net: NetName=NetC16_A_2 Pin=C16_A-2
+Added Pin To Net: NetName=NetC16_A_2 Pin=R5_A-1
+Added Pin To Net: NetName=NetC16_A_2 Pin=R7_A-2
+Added Pin To Net: NetName=NetC16_A_2 Pin=U1-13
+Added Net: Name=NetC16_A_2
+Added Pin To Net: NetName=NetC16_B_2 Pin=C16_B-2
+Added Pin To Net: NetName=NetC16_B_2 Pin=R5_B-1
+Added Pin To Net: NetName=NetC16_B_2 Pin=R7_B-2
+Added Pin To Net: NetName=NetC16_B_2 Pin=U1-14
+Added Net: Name=NetC16_B_2
+Added Pin To Net: NetName=NetC16_C_2 Pin=C16_C-2
+Added Pin To Net: NetName=NetC16_C_2 Pin=R5_C-1
+Added Pin To Net: NetName=NetC16_C_2 Pin=R7_C-2
+Added Pin To Net: NetName=NetC16_C_2 Pin=U1-15
+Added Net: Name=NetC16_C_2
+Added Pin To Net: NetName=NetU1_10 Pin=U1-10
+Added Pin To Net: NetName=NetU1_10 Pin=U2_A-8
+Added Net: Name=NetU1_10
+Added Pin To Net: NetName=NetU1_11 Pin=U1-11
+Added Pin To Net: NetName=NetU1_11 Pin=U2_B-8
+Added Net: Name=NetU1_11
+Added Pin To Net: NetName=NetU1_12 Pin=U1-12
+Added Pin To Net: NetName=NetU1_12 Pin=U2_C-8
+Added Net: Name=NetU1_12
+Added Pin To Net: NetName=NetU1_26 Pin=U1-26
+Added Pin To Net: NetName=NetU1_26 Pin=U3_A-6
+Added Net: Name=NetU1_26
+Added Pin To Net: NetName=NetU1_27 Pin=U1-27
+Added Pin To Net: NetName=NetU1_27 Pin=U3_B-6
+Added Net: Name=NetU1_27
+Added Pin To Net: NetName=NetU1_28 Pin=U1-28
+Added Pin To Net: NetName=NetU1_28 Pin=U3_C-6
+Added Net: Name=NetU1_28
+Added Pin To Net: NetName=NetU1_29 Pin=U1-29
+Added Pin To Net: NetName=NetU1_29 Pin=U3_A-5
+Added Net: Name=NetU1_29
+Added Pin To Net: NetName=NetU1_30 Pin=U1-30
+Added Pin To Net: NetName=NetU1_30 Pin=U3_B-5
+Added Net: Name=NetU1_30
+Added Pin To Net: NetName=NetU1_31 Pin=U1-31
+Added Pin To Net: NetName=NetU1_31 Pin=U3_C-5
+Added Net: Name=NetU1_31
+Added Class: Name=A
+Added Class: Name=B
+Added Class: Name=C
+Added Class: Name=driver
+Added Member To Class: ClassName=PhaseA Member=Component C9_A (C9) 16V 47u
+Added Member To Class: ClassName=PhaseA Member=Component C9_B (C9) 16V 47u
+Added Member To Class: ClassName=PhaseA Member=Component C9_C (C9) 16V 47u
+Added Member To Class: ClassName=PhaseA Member=Component C10_A (C10) 100n
+Added Member To Class: ClassName=PhaseA Member=Component C10_B (C10) 100n
+Added Member To Class: ClassName=PhaseA Member=Component C10_C (C10) 100n
+Added Member To Class: ClassName=PhaseA Member=Component C14_A (C14) 100n 100V
+Added Member To Class: ClassName=PhaseA Member=Component C14_B (C14) 100n 100V
+Added Member To Class: ClassName=PhaseA Member=Component C14_C (C14) 100n 100V
+Added Member To Class: ClassName=PhaseA Member=Component C16_A (C16) 100n
+Added Member To Class: ClassName=PhaseA Member=Component C16_B (C16) 100n
+Added Member To Class: ClassName=PhaseA Member=Component C16_C (C16) 100n
+Added Member To Class: ClassName=PhaseA Member=Component R5_A (R5) 56k
+Added Member To Class: ClassName=PhaseA Member=Component R5_B (R5) 56k
+Added Member To Class: ClassName=PhaseA Member=Component R5_C (R5) 56k
+Added Member To Class: ClassName=PhaseA Member=Component R7_A (R7) 1k8
+Added Member To Class: ClassName=PhaseA Member=Component R7_B (R7) 1k8
+Added Member To Class: ClassName=PhaseA Member=Component R7_C (R7) 1k8
+Added Member To Class: ClassName=PhaseA Member=Component U2_A (U2) INA240A1PWR
+Added Member To Class: ClassName=PhaseA Member=Component U2_B (U2) INA240A1PWR
+Added Member To Class: ClassName=PhaseA Member=Component U2_C (U2) INA240A1PWR
+Added Member To Class: ClassName=PhaseA Member=Component U3_A (U3) UCC27282DR
+Added Member To Class: ClassName=PhaseA Member=Component U3_B (U3) UCC27282DR
+Added Member To Class: ClassName=PhaseA Member=Component U3_C (U3) UCC27282DR

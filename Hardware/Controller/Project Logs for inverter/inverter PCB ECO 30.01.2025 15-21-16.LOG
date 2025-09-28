@@ -1,0 +1,36 @@
+Removed Member From Class: ClassName=Inverter Member=C34
+Removed Member From Class: ClassName=Inverter Member=C35
+Removed Member From Class: ClassName=Inverter Member=C39
+Removed Member From Class: ClassName=Power Member=C41
+Removed Member From Class: ClassName=Power Member=C42
+Removed Member From Class: ClassName=Power Member=C43
+Change Net Name : Old Net Name=HI_A New Net Name=HIGH_A
+Change Net Name : Old Net Name=HI_B New Net Name=HIGH_B
+Change Net Name : Old Net Name=HI_C New Net Name=HIGH_C
+Change Net Name : Old Net Name=LI_A New Net Name=LOW_A
+Change Net Name : Old Net Name=LI_B New Net Name=LOW_B
+Change Net Name : Old Net Name=LI_C New Net Name=LOW_C
+Added Member To Class: ClassName=Inverter Member=Component C9 16V 47u
+Added Member To Class: ClassName=Inverter Member=Component C11 4u7
+Added Member To Class: ClassName=Inverter Member=Component C12 4u7
+Added Member To Class: ClassName=Inverter Member=Component C13 4u7
+Added Member To Class: ClassName=Inverter Member=Component C14 100n 100V
+Added Member To Class: ClassName=Inverter Member=Component C16 100n
+Added Member To Class: ClassName=Inverter Member=Component C17 16V 47u
+Added Member To Class: ClassName=Inverter Member=Component C18 4u7
+Added Member To Class: ClassName=Inverter Member=Component C21 4u7
+Added Member To Class: ClassName=Inverter Member=Component C22 100n 100V
+Added Member To Class: ClassName=Inverter Member=Component C23 100n
+Added Member To Class: ClassName=Inverter Member=Component C24 100n
+Added Member To Class: ClassName=Inverter Member=Component C25 16V 47u
+Added Member To Class: ClassName=Inverter Member=Component C28 4u7
+Added Member To Class: ClassName=Inverter Member=Component C29 4u7
+Added Member To Class: ClassName=Inverter Member=Component C30 100n 100V
+Added Member To Class: ClassName=Inverter Member=Component C31 100n
+Added Member To Class: ClassName=Inverter Member=Component C32 100n
+Added Member To Class: ClassName=Power Member=Component C34 2n2
+Added Member To Class: ClassName=Power Member=Component C35 4u7
+Added Member To Class: ClassName=Power Member=Component C36 16V 47u
+Added Member To Class: ClassName=Power Member=Component C37 16V 47u
+Added Member To Class: ClassName=Power Member=Component C38 16V 47u
+Added Member To Class: ClassName=Power Member=Component C40 10u

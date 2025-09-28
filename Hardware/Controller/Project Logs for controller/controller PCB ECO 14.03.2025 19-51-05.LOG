@@ -1,0 +1,24 @@
+Change Net Name : Old Net Name=NetC16_A_2 New Net Name=VOLT_A
+Change Net Name : Old Net Name=NetC16_B_2 New Net Name=VOLT_B
+Change Net Name : Old Net Name=NetC16_C_2 New Net Name=VOLT_C
+Change Net Name : Old Net Name=NetU1_10 New Net Name=CURR_A
+Change Net Name : Old Net Name=NetU1_11 New Net Name=CURR_B
+Change Net Name : Old Net Name=NetU1_12 New Net Name=CURR_C
+Change Net Name : Old Net Name=NetU1_26 New Net Name=LOW_A
+Change Net Name : Old Net Name=NetU1_27 New Net Name=LOW_B
+Change Net Name : Old Net Name=NetU1_28 New Net Name=LOW_C
+Change Net Name : Old Net Name=NetU1_29 New Net Name=HIGH_A
+Change Net Name : Old Net Name=NetU1_30 New Net Name=HIGH_B
+Change Net Name : Old Net Name=NetU1_31 New Net Name=HIGH_C
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)

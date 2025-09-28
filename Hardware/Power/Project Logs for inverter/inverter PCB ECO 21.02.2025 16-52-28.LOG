@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=LG_B Pin=PH2-1
+Removed Pin From Net: NetName=PH_B Pin=PH2-2
+Removed Pin From Net: NetName=SH_B Pin=PH2-4
+Removed Pin From Net: NetName=GND Pin=PH2-6
+Removed Pin From Net: NetName=HG_B Pin=PH2-8
+Removed Pin From Net: NetName=LG_C Pin=PH3-2
+Removed Pin From Net: NetName=HG_C Pin=PH3-4
+Added Component: Designator=C1(FS32X475K101EGG)
+Add component (AddParameter): Name = "LCSC"; Value = "C381466"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "PSA(Prosperity Dielectrics)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "FS32X475K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(FS32X475K101EGG)
+Add component (AddParameter): Name = "LCSC"; Value = "C381466"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "PSA(Prosperity Dielectrics)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "FS32X475K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=PH1(PH_2x4_F)
+Add component (AddParameter): Name = "LCSC"; Value = "C2897424"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "HCTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "PM254-2-04-W-8.5"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(IPT015N10N5)
+Add component (AddParameter): Name = "LCSC"; Value = "C19626223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "Tokmas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "IPT015N10N5"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(IPT015N10N5)
+Add component (AddParameter): Name = "LCSC"; Value = "C19626223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "Tokmas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "IPT015N10N5"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(ASR-M-5-0.2F-t1)
+Add component (AddParameter): Name = "LCSC"; Value = "C469432"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "Shenzhen Yezhan Elec."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "ASR-M-5-0.2F-t1"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+100V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+100V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=PH1-1
+Added Pin To Net: NetName=HG_A Pin=PH1-2
+Added Pin To Net: NetName=GND Pin=PH1-3
+Added Pin To Net: NetName=LG_A Pin=PH1-4
+Added Pin To Net: NetName=GND Pin=PH1-5
+Added Pin To Net: NetName=SH_A Pin=PH1-6
+Added Pin To Net: NetName=GND Pin=PH1-7
+Added Pin To Net: NetName=PH_A Pin=PH1-8
+Added Pin To Net: NetName=GND Pin=PH2-1
+Added Pin To Net: NetName=HG_B Pin=PH2-2
+Added Pin To Net: NetName=LG_B Pin=PH2-4
+Added Pin To Net: NetName=SH_B Pin=PH2-6
+Added Pin To Net: NetName=PH_B Pin=PH2-8
+Added Pin To Net: NetName=HG_C Pin=PH3-2
+Added Pin To Net: NetName=LG_C Pin=PH3-4
+Added Pin To Net: NetName=G_AH1 Pin=Q1-1
+Added Pin To Net: NetName=SH_A Pin=Q1-2
+Added Pin To Net: NetName=+100V Pin=Q1-3
+Added Pin To Net: NetName=G_AL1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=SH_A Pin=Q2-3
+Added Pin To Net: NetName=G_AH1 Pin=R1-1
+Added Pin To Net: NetName=HG_A Pin=R1-2
+Added Pin To Net: NetName=PH_A Pin=R2-1
+Added Pin To Net: NetName=SH_A Pin=R2-2
+Added Pin To Net: NetName=G_AL1 Pin=R3-1
+Added Pin To Net: NetName=LG_A Pin=R3-2
+Added Member To Class: ClassName=Inverter Member=Component C1 4u7
+Added Member To Class: ClassName=Inverter Member=Component C2 4u7
+Added Member To Class: ClassName=Overview Member=Component PH1 PHASE_A
+Added Member To Class: ClassName=Inverter Member=Component Q1 IPT015N10N5
+Added Member To Class: ClassName=Inverter Member=Component Q2 IPT015N10N5
+Added Member To Class: ClassName=Inverter Member=Component R1 1R
+Added Member To Class: ClassName=Inverter Member=Component R2 SHUNT_0m2_3920
+Added Member To Class: ClassName=Inverter Member=Component R3 1R

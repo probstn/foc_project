@@ -1,0 +1,201 @@
+Added Component: Designator=C1(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1(OSC_24M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2403291504_YXC-Crystal-Oscillators-X322524MOB4SI_C70590.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C70590"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "X322524MOB4SI"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(STM32F303CBT6)
+Add component (AddParameter): Name = "LCSC"; Value = "C108516"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "STM32F303CBT6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+3V3 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+3V3 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+3V3 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+3V3 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+3V3 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-4
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=+3V3 Pin=U1-1
+Added Pin To Net: NetName=LOW_A Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=+3V3 Pin=U1-9
+Added Pin To Net: NetName=NetC15_2 Pin=U1-10
+Added Pin To Net: NetName=NetC23_2 Pin=U1-11
+Added Pin To Net: NetName=NetC31_2 Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-24
+Added Pin To Net: NetName=NetC33_2 Pin=U1-25
+Added Pin To Net: NetName=LOW_B Pin=U1-27
+Added Pin To Net: NetName=LOW_C Pin=U1-28
+Added Pin To Net: NetName=HIGH_A Pin=U1-29
+Added Pin To Net: NetName=HIGH_B Pin=U1-30
+Added Pin To Net: NetName=HIGH_C Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=+3V3 Pin=U1-36
+Added Pin To Net: NetName=I2C_SCL Pin=U1-42
+Added Pin To Net: NetName=I2C_SDA Pin=U1-43
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=+3V3 Pin=U1-48
+Change Net Name : Old Net Name=NetC15_2 New Net Name=VOLT_A
+Change Net Name : Old Net Name=NetC23_2 New Net Name=VOLT_B
+Change Net Name : Old Net Name=NetC31_2 New Net Name=VOLT_C
+Change Net Name : Old Net Name=NetC33_2 New Net Name=TEMP_INVERTER
+Added Pin To Net: NetName=BOOT0 Pin=R2-2
+Added Pin To Net: NetName=BOOT0 Pin=U1-44
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=CAN_RXD Pin=U1-45
+Added Pin To Net: NetName=CAN_RXD Pin=U11-4
+Added Net: Name=CAN_RXD
+Added Pin To Net: NetName=CAN_TXD Pin=U1-46
+Added Pin To Net: NetName=CAN_TXD Pin=U11-1
+Added Net: Name=CAN_TXD
+Added Pin To Net: NetName=CURR_A Pin=U1-14
+Added Pin To Net: NetName=CURR_A Pin=U3-1
+Added Net: Name=CURR_A
+Added Pin To Net: NetName=CURR_B Pin=U1-15
+Added Pin To Net: NetName=CURR_B Pin=U5-1
+Added Net: Name=CURR_B
+Added Pin To Net: NetName=CURR_C Pin=U1-16
+Added Pin To Net: NetName=CURR_C Pin=U7-1
+Added Net: Name=CURR_C
+Added Pin To Net: NetName=GPIO_1 Pin=U1-4
+Added Pin To Net: NetName=GPIO_1 Pin=XH3-3
+Added Net: Name=GPIO_1
+Added Pin To Net: NetName=GPIO_2 Pin=U1-17
+Added Pin To Net: NetName=GPIO_2 Pin=XH4-3
+Added Net: Name=GPIO_2
+Added Pin To Net: NetName=HALL_1 Pin=U1-18
+Added Pin To Net: NetName=HALL_1 Pin=XH6-1
+Added Net: Name=HALL_1
+Added Pin To Net: NetName=HALL_2 Pin=U1-19
+Added Pin To Net: NetName=HALL_2 Pin=XH6-2
+Added Net: Name=HALL_2
+Added Pin To Net: NetName=HALL_3 Pin=U1-20
+Added Pin To Net: NetName=HALL_3 Pin=XH6-3
+Added Net: Name=HALL_3
+Added Pin To Net: NetName=MCU_OSC_IN Pin=C1-2
+Added Pin To Net: NetName=MCU_OSC_IN Pin=Q1-3
+Added Pin To Net: NetName=MCU_OSC_IN Pin=U1-5
+Added Net: Name=MCU_OSC_IN
+Added Pin To Net: NetName=MCU_OSC_OUT Pin=R1-2
+Added Pin To Net: NetName=MCU_OSC_OUT Pin=U1-6
+Added Net: Name=MCU_OSC_OUT
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=Q1-1
+Added Pin To Net: NetName=NetC2_2 Pin=R1-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NRST Pin=C3-2
+Added Pin To Net: NetName=NRST Pin=PH2-4
+Added Pin To Net: NetName=NRST Pin=U1-7
+Added Net: Name=NRST
+Added Pin To Net: NetName=RED_LED Pin=LED2-2
+Added Pin To Net: NetName=RED_LED Pin=U1-40
+Added Net: Name=RED_LED
+Added Pin To Net: NetName=RGB1 Pin=U1-41
+Added Pin To Net: NetName=RGB1 Pin=XH1-3
+Added Net: Name=RGB1
+Added Pin To Net: NetName=RGB2 Pin=U1-3
+Added Pin To Net: NetName=RGB2 Pin=XH2-3
+Added Net: Name=RGB2
+Added Pin To Net: NetName=SWCLK Pin=PH2-1
+Added Pin To Net: NetName=SWCLK Pin=U1-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=PH2-2
+Added Pin To Net: NetName=SWDIO Pin=U1-34
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=SWO Pin=PH2-3
+Added Pin To Net: NetName=SWO Pin=U1-39
+Added Net: Name=SWO
+Added Pin To Net: NetName=TEMP_MOTOR Pin=U1-26
+Added Pin To Net: NetName=TEMP_MOTOR Pin=XH6-4
+Added Net: Name=TEMP_MOTOR
+Added Pin To Net: NetName=USART_RX Pin=U1-22
+Added Pin To Net: NetName=USART_RX Pin=XH7-2
+Added Net: Name=USART_RX
+Added Pin To Net: NetName=USART_TX Pin=U1-21
+Added Pin To Net: NetName=USART_TX Pin=XH7-3
+Added Net: Name=USART_TX
+Added Pin To Net: NetName=USB_DN Pin=U1-32
+Added Pin To Net: NetName=USB_DN Pin=USB1-5
+Added Pin To Net: NetName=USB_DN Pin=USB1-7
+Added Net: Name=USB_DN
+Added Pin To Net: NetName=USB_DP Pin=U1-33
+Added Pin To Net: NetName=USB_DP Pin=USB1-6
+Added Pin To Net: NetName=USB_DP Pin=USB1-8
+Added Net: Name=USB_DP
+Added Pin To Net: NetName=VOLT_BAT Pin=R26-1
+Added Pin To Net: NetName=VOLT_BAT Pin=R27-2
+Added Pin To Net: NetName=VOLT_BAT Pin=U1-13
+Added Net: Name=VOLT_BAT
+Added Pin To Net: NetName=WHITE_LED Pin=LED1-2
+Added Pin To Net: NetName=WHITE_LED Pin=U1-38
+Added Net: Name=WHITE_LED
+Added Class: Name=STM32

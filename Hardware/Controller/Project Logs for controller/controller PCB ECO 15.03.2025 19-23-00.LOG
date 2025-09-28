@@ -1,0 +1,18 @@
+Change component parameters: Designator = "PH1" ("PH1"); Footprint = "PH_2x4_M"; UniqueID = "\XVSZZUZY" ("\XVSZZUZY")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C7501618"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "XUNPU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "PH2.54-07-04PWS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "PH2" ("PH2"); Footprint = "PH_2x4_M"; UniqueID = "\PANDVZAY" ("\PANDVZAY")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C7501618"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "XUNPU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "PH2.54-07-04PWS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "PH3" ("PH3"); Footprint = "PH_2x4_M"; UniqueID = "\GQABGTNO" ("\GQABGTNO")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C7501618"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "XUNPU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "PH2.54-07-04PWS"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=A Member=Component PH1 PHASE_A
+Added Member To Class: ClassName=B Member=Component PH2 PHASE_B
+Added Member To Class: ClassName=C Member=Component PH3 PHASE_C

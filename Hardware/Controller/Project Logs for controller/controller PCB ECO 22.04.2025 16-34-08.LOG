@@ -1,0 +1,197 @@
+Removed Pin From Net: NetName=GND Pin=C9_A-1
+Removed Pin From Net: NetName=+12V Pin=C9_A-2
+Removed Pin From Net: NetName=GND Pin=C9_B-1
+Removed Pin From Net: NetName=+12V Pin=C9_B-2
+Removed Pin From Net: NetName=GND Pin=C9_C-1
+Removed Pin From Net: NetName=+12V Pin=C9_C-2
+Removed Pin From Net: NetName=SH_A Pin=U2_A-2
+Removed Pin From Net: NetName=PH_A Pin=U2_A-3
+Removed Pin From Net: NetName=GND Pin=U2_A-4
+Removed Pin From Net: NetName=+3V3 Pin=U2_A-5
+Removed Pin From Net: NetName=CURR_A Pin=U2_A-8
+Removed Pin From Net: NetName=SH_B Pin=U2_B-2
+Removed Pin From Net: NetName=PH_B Pin=U2_B-3
+Removed Pin From Net: NetName=GND Pin=U2_B-4
+Removed Pin From Net: NetName=+3V3 Pin=U2_B-5
+Removed Pin From Net: NetName=CURR_B Pin=U2_B-8
+Removed Pin From Net: NetName=SH_C Pin=U2_C-2
+Removed Pin From Net: NetName=PH_C Pin=U2_C-3
+Removed Pin From Net: NetName=GND Pin=U2_C-4
+Removed Pin From Net: NetName=+3V3 Pin=U2_C-5
+Removed Pin From Net: NetName=CURR_C Pin=U2_C-8
+Change Component Footprint: Designator=C9_A Old Footprint=CAP_1210 New Footprint=CAP_0603
+Change Component Footprint: Designator=C9_B Old Footprint=CAP_1210 New Footprint=CAP_0603
+Change Component Footprint: Designator=C9_C Old Footprint=CAP_1210 New Footprint=CAP_0603
+Change Component Footprint: Designator=U2_A Old Footprint=INA240A1PWR New Footprint=INA240A1DR
+Change Component Footprint: Designator=U2_B Old Footprint=INA240A1PWR New Footprint=INA240A1DR
+Change Component Footprint: Designator=U2_C Old Footprint=INA240A1PWR New Footprint=INA240A1DR
+Change Component Comment : Designator=C9_A Old Comment=16V 47u New Comment=1u 12V
+Change Component Comment : Designator=C9_B Old Comment=16V 47u New Comment=1u 12V
+Change Component Comment : Designator=C9_C Old Comment=16V 47u New Comment=1u 12V
+Change Component Comment : Designator=U2_A Old Comment=INA240A1PWR New Comment=INA240A1DR
+Change Component Comment : Designator=U2_B Old Comment=INA240A1PWR New Comment=INA240A1DR
+Change Component Comment : Designator=U2_C Old Comment=INA240A1PWR New Comment=INA240A1DR
+Change Component Designator: OldDesignator=PH1 NewDesignator=PH_A
+Change Component Designator: OldDesignator=PH2 NewDesignator=PH_B
+Change Component Designator: OldDesignator=PH3 NewDesignator=PH_C
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP_0603"; UniqueID = "\GHEKUDHE\IYYDBDDI" ("\GHEKUDHE\IYYDBDDI")
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP_0603"; UniqueID = "\GHEKUDHE\OBQVLGZA" ("\GHEKUDHE\OBQVLGZA")
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP_0603"; UniqueID = "\GHEKUDHE\FAXBMNSE" ("\GHEKUDHE\FAXBMNSE")
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP_0603"; UniqueID = "\GHEKUDHE\EVCNFYGY" ("\GHEKUDHE\EVCNFYGY")
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAP_0603"; UniqueID = "\GHEKUDHE\IHYMXWDH" ("\GHEKUDHE\IHYMXWDH")
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAP_0603"; UniqueID = "\GHEKUDHE\ZZSDTAZP" ("\GHEKUDHE\ZZSDTAZP")
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAP_0603"; UniqueID = "\GHEKUDHE\RTSIYDVV" ("\GHEKUDHE\RTSIYDVV")
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9_A" ("C9"); Footprint = "CAP_1210"; UniqueID = "\NILCYZSH\APEJLVUL" ("\NILCYZSH\APEJLVUL")
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9_B" ("C9"); Footprint = "CAP_1210"; UniqueID = "\LXYLCXQH\APEJLVUL" ("\LXYLCXQH\APEJLVUL")
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9_C" ("C9"); Footprint = "CAP_1210"; UniqueID = "\ZGARPMOX\APEJLVUL" ("\ZGARPMOX\APEJLVUL")
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "OSC_24M"; UniqueID = "\GHEKUDHE\JKZICIZI" ("\GHEKUDHE\JKZICIZI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2403291504_YXC-Crystal-Oscillators-X322524MOB4SI_C70590.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C70590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "X322524MOB4SI"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES_0603"; UniqueID = "\GHEKUDHE\AJFJTOSJ" ("\GHEKUDHE\AJFJTOSJ")
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES_0603"; UniqueID = "\GHEKUDHE\LBAZNIRR" ("\GHEKUDHE\LBAZNIRR")
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "STM32F103CBT6"; UniqueID = "\GHEKUDHE\DVSBRFUX" ("\GHEKUDHE\DVSBRFUX")
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C8304"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "STM32F103CBT6"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2_A" ("U2"); Footprint = "INA240A1PWR"; UniqueID = "\NILCYZSH\FMCYFKGM" ("\NILCYZSH\FMCYFKGM")
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C2060769"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "INA240A1DR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2_B" ("U2"); Footprint = "INA240A1PWR"; UniqueID = "\LXYLCXQH\FMCYFKGM" ("\LXYLCXQH\FMCYFKGM")
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C2060769"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "INA240A1DR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2_C" ("U2"); Footprint = "INA240A1PWR"; UniqueID = "\ZGARPMOX\FMCYFKGM" ("\ZGARPMOX\FMCYFKGM")
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C2060769"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "INA240A1DR"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(MPU-6500)
+Add component (AddParameter): Name = "LCSC"; Value = "C50278"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "TDK InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "MPU-6500"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=C9_A-1
+Added Pin To Net: NetName=GND Pin=C9_A-2
+Added Pin To Net: NetName=+12V Pin=C9_B-1
+Added Pin To Net: NetName=GND Pin=C9_B-2
+Added Pin To Net: NetName=+12V Pin=C9_C-1
+Added Pin To Net: NetName=GND Pin=C9_C-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+3V3 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=+3V3 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=+3V3 Pin=C13-2
+Added Pin To Net: NetName=PH_A Pin=U2_A-1
+Added Pin To Net: NetName=GND Pin=U2_A-2
+Added Pin To Net: NetName=+3V3 Pin=U2_A-3
+Added Pin To Net: NetName=CURR_A Pin=U2_A-5
+Added Pin To Net: NetName=SH_A Pin=U2_A-8
+Added Pin To Net: NetName=PH_B Pin=U2_B-1
+Added Pin To Net: NetName=GND Pin=U2_B-2
+Added Pin To Net: NetName=+3V3 Pin=U2_B-3
+Added Pin To Net: NetName=CURR_B Pin=U2_B-5
+Added Pin To Net: NetName=SH_B Pin=U2_B-8
+Added Pin To Net: NetName=PH_C Pin=U2_C-1
+Added Pin To Net: NetName=GND Pin=U2_C-2
+Added Pin To Net: NetName=+3V3 Pin=U2_C-3
+Added Pin To Net: NetName=CURR_C Pin=U2_C-5
+Added Pin To Net: NetName=SH_C Pin=U2_C-8
+Added Pin To Net: NetName=+3V3 Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=+3V3 Pin=U4-10
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=+3V3 Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U4-18
+Added Pin To Net: NetName=GND Pin=U4-20
+Added Pin To Net: NetName=GND Pin=U4-25
+Added Pin To Net: NetName=NetU1_21 Pin=U1-21
+Added Pin To Net: NetName=NetU1_21 Pin=U4-24
+Added Net: Name=NetU1_21
+Added Pin To Net: NetName=NetU1_22 Pin=U1-22
+Added Pin To Net: NetName=NetU1_22 Pin=U4-23
+Added Net: Name=NetU1_22
+Added Class: Name=GYRO
+Added Room: Name=A
+Added Room: Name=B
+Added Room: Name=C
+Added Room: Name=STM32

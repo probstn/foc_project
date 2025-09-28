@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=XT1-1
+Removed Pin From Net: NetName=+100V Pin=XT1-2
+Removed Member From Class: ClassName=Overview Member=XT1
+Added Member To Class: ClassName=STM32 Member=Component C8 100n

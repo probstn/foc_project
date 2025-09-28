@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=XT90? NewDesignator=XT1
+Added Pin To Net: NetName=+100V Pin=C29-2
+Added Pin To Net: NetName=+100V Pin=U8-2
+Added Pin To Net: NetName=+100V Pin=U8-3
+Added Pin To Net: NetName=+100V Pin=XT1-2

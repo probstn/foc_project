@@ -1,0 +1,160 @@
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=+100V Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=+100V Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=+100V Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=+100V Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=+100V Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=+100V Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=NetQ2_2 Pin=Q3-2
+Removed Pin From Net: NetName=+100V Pin=Q3-3
+Removed Pin From Net: NetName=GND Pin=Q5-2
+Removed Pin From Net: NetName=NetQ2_2 Pin=Q5-3
+Removed Pin From Net: NetName=NetQ6_2 Pin=Q7-2
+Removed Pin From Net: NetName=+100V Pin=Q7-3
+Removed Pin From Net: NetName=GND Pin=Q9-2
+Removed Pin From Net: NetName=NetQ6_2 Pin=Q9-3
+Removed Pin From Net: NetName=NetQ10_2 Pin=Q11-2
+Removed Pin From Net: NetName=+100V Pin=Q11-3
+Removed Pin From Net: NetName=GND Pin=Q13-2
+Removed Pin From Net: NetName=NetQ10_2 Pin=Q13-3
+Removed Member From Class: ClassName=Inverter Member=C12
+Removed Member From Class: ClassName=Inverter Member=C13
+Removed Member From Class: ClassName=Inverter Member=C20
+Removed Member From Class: ClassName=Inverter Member=C21
+Removed Member From Class: ClassName=Inverter Member=C28
+Removed Member From Class: ClassName=Inverter Member=C29
+Removed Member From Class: ClassName=Inverter Member=Q7
+Removed Member From Class: ClassName=Inverter Member=Q9
+Removed Member From Class: ClassName=Inverter Member=Q10
+Removed Member From Class: ClassName=Inverter Member=Q11
+Removed Member From Class: ClassName=Inverter Member=Q12
+Removed Member From Class: ClassName=Inverter Member=Q13
+Change Component Designator: OldDesignator=C10 NewDesignator=C1
+Change Component Designator: OldDesignator=C11 NewDesignator=C2
+Change Component Designator: OldDesignator=C18 NewDesignator=C3
+Change Component Designator: OldDesignator=C19 NewDesignator=C4
+Change Component Designator: OldDesignator=C26 NewDesignator=C5
+Change Component Designator: OldDesignator=C27 NewDesignator=C6
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q8 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q10 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q12 NewDesignator=Q6
+Change Component Designator: OldDesignator=R6 NewDesignator=R2
+Change Component Designator: OldDesignator=R13 NewDesignator=R5
+Change Component Designator: OldDesignator=R20 NewDesignator=R8
+Added Component: Designator=PH1(PH_2x4_F)
+Add component (AddParameter): Name = "LCSC"; Value = "C2897424"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "HCTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "PM254-2-04-W-8.5"; VariantName = "[No Variations]"
+Added Component: Designator=PH2(PH_2x4_F)
+Add component (AddParameter): Name = "LCSC"; Value = "C2897424"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "HCTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "PM254-2-04-W-8.5"; VariantName = "[No Variations]"
+Added Component: Designator=PH3(PH_2x4_F)
+Add component (AddParameter): Name = "LCSC"; Value = "C2897424"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "HCTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "PM254-2-04-W-8.5"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=PH1-1
+Added Pin To Net: NetName=HG_A Pin=PH1-2
+Added Pin To Net: NetName=GND Pin=PH1-3
+Added Pin To Net: NetName=LG_A Pin=PH1-4
+Added Pin To Net: NetName=GND Pin=PH1-5
+Added Pin To Net: NetName=NetQ2_2 Pin=PH1-6
+Added Pin To Net: NetName=GND Pin=PH1-7
+Added Pin To Net: NetName=GND Pin=PH2-1
+Added Pin To Net: NetName=HG_B Pin=PH2-2
+Added Pin To Net: NetName=GND Pin=PH2-3
+Added Pin To Net: NetName=LG_B Pin=PH2-4
+Added Pin To Net: NetName=GND Pin=PH2-5
+Added Pin To Net: NetName=NetQ6_2 Pin=PH2-6
+Added Pin To Net: NetName=GND Pin=PH2-7
+Added Pin To Net: NetName=GND Pin=PH3-1
+Added Pin To Net: NetName=HG_C Pin=PH3-2
+Added Pin To Net: NetName=GND Pin=PH3-3
+Added Pin To Net: NetName=LG_C Pin=PH3-4
+Added Pin To Net: NetName=GND Pin=PH3-5
+Added Pin To Net: NetName=NetQ10_2 Pin=PH3-6
+Added Pin To Net: NetName=GND Pin=PH3-7
+Added Pin To Net: NetName=G_AH1 Pin=R1-1
+Added Pin To Net: NetName=HG_A Pin=R1-2
+Added Pin To Net: NetName=G_AL1 Pin=R3-1
+Added Pin To Net: NetName=LG_A Pin=R3-2
+Added Pin To Net: NetName=G_BH1 Pin=R4-1
+Added Pin To Net: NetName=HG_B Pin=R4-2
+Added Pin To Net: NetName=G_BL1 Pin=R6-1
+Added Pin To Net: NetName=LG_B Pin=R6-2
+Added Pin To Net: NetName=G_CH1 Pin=R7-1
+Added Pin To Net: NetName=HG_C Pin=R7-2
+Added Pin To Net: NetName=G_CL1 Pin=R9-1
+Added Pin To Net: NetName=LG_C Pin=R9-2
+Change Net Name : Old Net Name=NetQ2_2 New Net Name=SH_A
+Change Net Name : Old Net Name=NetQ6_2 New Net Name=SH_B
+Change Net Name : Old Net Name=NetQ10_2 New Net Name=SH_C
+Added Pin To Net: NetName=PH_A Pin=PH1-8
+Added Pin To Net: NetName=PH_A Pin=R2-1
+Added Net: Name=PH_A
+Added Pin To Net: NetName=PH_B Pin=PH2-8
+Added Pin To Net: NetName=PH_B Pin=R5-1
+Added Net: Name=PH_B
+Added Pin To Net: NetName=PH_C Pin=PH3-8
+Added Pin To Net: NetName=PH_C Pin=R8-1
+Added Net: Name=PH_C
+Added Member To Class: ClassName=Overview Member=Component PH1 PHASE_A
+Added Member To Class: ClassName=Overview Member=Component PH2 PHASE_B
+Added Member To Class: ClassName=Overview Member=Component PH3 PHASE_C
+Added Member To Class: ClassName=Inverter Member=Component R1 1R
+Added Member To Class: ClassName=Inverter Member=Component R3 1R
+Added Member To Class: ClassName=Inverter Member=Component R4 1R
+Added Member To Class: ClassName=Inverter Member=Component R6 1R
+Added Member To Class: ClassName=Inverter Member=Component R7 1R
+Added Member To Class: ClassName=Inverter Member=Component R9 1R

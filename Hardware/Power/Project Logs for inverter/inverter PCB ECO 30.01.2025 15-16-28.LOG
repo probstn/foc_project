@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=HO_A Pin=C13-2
+Removed Pin From Net: NetName=HO_B Pin=C20-2
+Removed Pin From Net: NetName=HO_C Pin=C27-2
+Removed Pin From Net: NetName=HO_A Pin=U2-2
+Removed Pin From Net: NetName=HO_B Pin=U4-2
+Removed Pin From Net: NetName=HO_C Pin=U6-2
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C18
+Change Component Designator: OldDesignator=C17 NewDesignator=C19
+Change Component Designator: OldDesignator=C18 NewDesignator=C20
+Change Component Designator: OldDesignator=C19 NewDesignator=C21
+Change Component Designator: OldDesignator=C20 NewDesignator=C22
+Change Component Designator: OldDesignator=C21 NewDesignator=C23
+Change Component Designator: OldDesignator=C22 NewDesignator=C24
+Change Component Designator: OldDesignator=C23 NewDesignator=C26
+Change Component Designator: OldDesignator=C24 NewDesignator=C27
+Change Component Designator: OldDesignator=C25 NewDesignator=C28
+Change Component Designator: OldDesignator=C26 NewDesignator=C29
+Change Component Designator: OldDesignator=C27 NewDesignator=C30
+Change Component Designator: OldDesignator=C28 NewDesignator=C31
+Change Component Designator: OldDesignator=C29 NewDesignator=C32
+Change Component Designator: OldDesignator=C30 NewDesignator=C33
+Change Component Designator: OldDesignator=C31 NewDesignator=C34
+Change Component Designator: OldDesignator=C32 NewDesignator=C35
+Change Component Designator: OldDesignator=C33 NewDesignator=C36
+Change Component Designator: OldDesignator=C34 NewDesignator=C37
+Change Component Designator: OldDesignator=C35 NewDesignator=C38
+Change Component Designator: OldDesignator=C36 NewDesignator=C39
+Change Component Designator: OldDesignator=C37 NewDesignator=C40
+Change Component Designator: OldDesignator=C38 NewDesignator=C41
+Change Component Designator: OldDesignator=C39 NewDesignator=C42
+Change Component Designator: OldDesignator=C40 NewDesignator=C43
+Added Component: Designator=C9(CAP_1210)
+Add component (AddParameter): Name = "LCSC"; Value = "C77101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM32ER61C476KE15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP_1210)
+Add component (AddParameter): Name = "LCSC"; Value = "C77101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM32ER61C476KE15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAP_1210)
+Add component (AddParameter): Name = "LCSC"; Value = "C77101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM32ER61C476KE15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+12V Pin=C9-2
+Added Pin To Net: NetName=+12V Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=+12V Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetC28_2 New Net Name=NetC31_2
+Change Net Name : Old Net Name=NetC30_2 New Net Name=NetC33_2
+Change Net Name : Old Net Name=NetC31_1 New Net Name=NetC34_1
+Change Net Name : Old Net Name=NetC31_2 New Net Name=NetC34_2
+Change Net Name : Old Net Name=NetC39_1 New Net Name=NetC42_1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=U2-2
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=U4-2
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=U6-2
+Added Net: Name=NetC30_2
+Added Member To Class: ClassName=Inverter Member=Component C31 100n
+Added Member To Class: ClassName=Inverter Member=Component C32 100n
+Added Member To Class: ClassName=Inverter Member=Component C33 100n

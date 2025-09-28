@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+100V Pin=C29-2
+Removed Pin From Net: NetName=+100V Pin=U8-2
+Removed Pin From Net: NetName=+100V Pin=U8-3
+Added Component: Designator=XT90?(XT90PW-M.G.Y)
+Add component (AddParameter): Name = "LCSC"; Value = "C3040689"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "Changzhou Amass Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "XT90PW-M.G.Y"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=XT90?-1
+Change Net Name : Old Net Name=NetP1_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetP2_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetP3_1 New Net Name=NetR16_1
+Add Net: Net with name "+100V" already exists
+Added Member To Class: ClassName=Overview Member=Component XT90? XT90PW-M.G.Y

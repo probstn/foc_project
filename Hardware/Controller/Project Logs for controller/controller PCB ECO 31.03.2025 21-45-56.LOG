@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=SWCLK Pin=PH5-1
+Removed Pin From Net: NetName=SWDIO Pin=PH5-2
+Removed Pin From Net: NetName=SWO Pin=PH5-3
+Removed Pin From Net: NetName=NRST Pin=PH5-4
+Removed Pin From Net: NetName=+3V3 Pin=PH5-5
+Removed Pin From Net: NetName=GND Pin=PH5-6
+Removed Member From Class: ClassName=Overview Member=PH5
+Added Component: Designator=PH?(PH_2x3)
+Added Pin To Net: NetName=SWDIO Pin=PH?-1
+Added Pin To Net: NetName=SWCLK Pin=PH?-2
+Added Pin To Net: NetName=SWO Pin=PH?-3
+Added Pin To Net: NetName=GND Pin=PH?-4
+Added Pin To Net: NetName=NRST Pin=PH?-5
+Added Pin To Net: NetName=+3V3 Pin=PH?-6
+Added Member To Class: ClassName=Overview Member=Component PH? PH_2x3

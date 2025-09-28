@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "tim.h": "c",
+        "gpio.h": "c",
+        "stdio.h": "c",
+        "foc.h": "c",
+        "math.h": "c",
+        "adc.h": "c",
+        "foc_math.h": "c",
+        "limits": "c",
+        "stdint.h": "c",
+        "fastmath.h": "c",
+        "arm_math.h": "c"
+    }
+}

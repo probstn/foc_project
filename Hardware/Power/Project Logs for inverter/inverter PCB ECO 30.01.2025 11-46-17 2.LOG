@@ -1,0 +1,18 @@
+Added Component: Designator=P1(PAD_THT_5mm)
+Added Component: Designator=P2(PAD_THT_5mm)
+Added Component: Designator=P3(PAD_THT_5mm)
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=R6-1
+Added Pin To Net: NetName=NetP1_1 Pin=U3-3
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=R13-1
+Added Pin To Net: NetName=NetP2_1 Pin=U5-3
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=R20-1
+Added Pin To Net: NetName=NetP3_1 Pin=U7-3
+Added Net: Name=NetP3_1
+Added Member To Class: ClassName=Inverter Member=Component P1 PAD_5mm
+Added Member To Class: ClassName=Inverter Member=Component P2 PAD_5mm
+Added Member To Class: ClassName=Inverter Member=Component P3 PAD_5mm

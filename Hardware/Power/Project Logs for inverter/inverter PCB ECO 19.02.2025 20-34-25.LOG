@@ -1,0 +1,169 @@
+Removed Pin From Net: NetName=GND Pin=C37-1
+Added Component: Designator=PH1(PH_2x4_F)
+Add component (AddParameter): Name = "LCSC"; Value = "C2897424"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "HCTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "PM254-2-04-W-8.5"; VariantName = "[No Variations]"
+Added Component: Designator=PH2(PH_2x4_F)
+Add component (AddParameter): Name = "LCSC"; Value = "C2897424"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "HCTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "PM254-2-04-W-8.5"; VariantName = "[No Variations]"
+Added Component: Designator=PH3(PH_2x4_F)
+Add component (AddParameter): Name = "LCSC"; Value = "C2897424"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "HCTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "PM254-2-04-W-8.5"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES_0805)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=PH1-1
+Added Pin To Net: NetName=HG_A Pin=PH1-2
+Added Pin To Net: NetName=GND Pin=PH1-3
+Added Pin To Net: NetName=LG_A Pin=PH1-4
+Added Pin To Net: NetName=GND Pin=PH1-5
+Added Pin To Net: NetName=NetQ2_2 Pin=PH1-6
+Added Pin To Net: NetName=GND Pin=PH1-7
+Added Pin To Net: NetName=GND Pin=PH2-1
+Added Pin To Net: NetName=HG_B Pin=PH2-2
+Added Pin To Net: NetName=GND Pin=PH2-3
+Added Pin To Net: NetName=LG_B Pin=PH2-4
+Added Pin To Net: NetName=GND Pin=PH2-5
+Added Pin To Net: NetName=NetQ6_2 Pin=PH2-6
+Added Pin To Net: NetName=GND Pin=PH2-7
+Added Pin To Net: NetName=GND Pin=PH3-1
+Added Pin To Net: NetName=HG_C Pin=PH3-2
+Added Pin To Net: NetName=GND Pin=PH3-3
+Added Pin To Net: NetName=LG_C Pin=PH3-4
+Added Pin To Net: NetName=GND Pin=PH3-5
+Added Pin To Net: NetName=NetQ10_2 Pin=PH3-6
+Added Pin To Net: NetName=GND Pin=PH3-7
+Added Pin To Net: NetName=G_AH1 Pin=R3-1
+Added Pin To Net: NetName=HG_A Pin=R3-2
+Added Pin To Net: NetName=G_AH2 Pin=R4-1
+Added Pin To Net: NetName=HG_A Pin=R4-2
+Added Pin To Net: NetName=G_AL1 Pin=R8-1
+Added Pin To Net: NetName=LG_A Pin=R8-2
+Added Pin To Net: NetName=G_AL2 Pin=R9-1
+Added Pin To Net: NetName=LG_A Pin=R9-2
+Added Pin To Net: NetName=G_BH1 Pin=R10-1
+Added Pin To Net: NetName=HG_B Pin=R10-2
+Added Pin To Net: NetName=G_BH2 Pin=R11-1
+Added Pin To Net: NetName=HG_B Pin=R11-2
+Added Pin To Net: NetName=G_BL1 Pin=R15-1
+Added Pin To Net: NetName=LG_B Pin=R15-2
+Added Pin To Net: NetName=G_BL2 Pin=R16-1
+Added Pin To Net: NetName=LG_B Pin=R16-2
+Added Pin To Net: NetName=G_CH1 Pin=R17-1
+Added Pin To Net: NetName=HG_C Pin=R17-2
+Added Pin To Net: NetName=G_CH2 Pin=R18-1
+Added Pin To Net: NetName=HG_C Pin=R18-2
+Added Pin To Net: NetName=G_CL1 Pin=R22-1
+Added Pin To Net: NetName=LG_C Pin=R22-2
+Added Pin To Net: NetName=G_CL2 Pin=R23-1
+Added Pin To Net: NetName=LG_C Pin=R23-2
+Change Net Name : Old Net Name=NetQ2_2 New Net Name=SH_A
+Change Net Name : Old Net Name=NetQ6_2 New Net Name=SH_B
+Change Net Name : Old Net Name=NetQ10_2 New Net Name=SH_C
+Added Pin To Net: NetName=PH_A Pin=PH1-8
+Added Pin To Net: NetName=PH_A Pin=R6-1
+Added Net: Name=PH_A
+Added Pin To Net: NetName=PH_B Pin=PH2-8
+Added Pin To Net: NetName=PH_B Pin=R13-1
+Added Net: Name=PH_B
+Added Pin To Net: NetName=PH_C Pin=PH3-8
+Added Pin To Net: NetName=PH_C Pin=R20-1
+Added Net: Name=PH_C
+Added Member To Class: ClassName=Overview Member=Component PH1 PHASE_A
+Added Member To Class: ClassName=Overview Member=Component PH2 PHASE_B
+Added Member To Class: ClassName=Overview Member=Component PH3 PHASE_C
+Added Member To Class: ClassName=Inverter Member=Component R3 1R
+Added Member To Class: ClassName=Inverter Member=Component R4 1R
+Added Member To Class: ClassName=Inverter Member=Component R8 1R
+Added Member To Class: ClassName=Inverter Member=Component R9 1R
+Added Member To Class: ClassName=Inverter Member=Component R10 1R
+Added Member To Class: ClassName=Inverter Member=Component R11 1R
+Added Member To Class: ClassName=Inverter Member=Component R15 1R
+Added Member To Class: ClassName=Inverter Member=Component R16 1R
+Added Member To Class: ClassName=Inverter Member=Component R17 1R
+Added Member To Class: ClassName=Inverter Member=Component R18 1R
+Added Member To Class: ClassName=Inverter Member=Component R22 1R
+Added Member To Class: ClassName=Inverter Member=Component R23 1R

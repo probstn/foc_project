@@ -1,0 +1,6 @@
+/Users/niklasprobst/Desktop/adcinj/adc/build/Debug/CMakeFiles/adc.dir
+/Users/niklasprobst/Desktop/adcinj/adc/build/Debug/CMakeFiles/edit_cache.dir
+/Users/niklasprobst/Desktop/adcinj/adc/build/Debug/CMakeFiles/rebuild_cache.dir
+/Users/niklasprobst/Desktop/adcinj/adc/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/Users/niklasprobst/Desktop/adcinj/adc/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/Users/niklasprobst/Desktop/adcinj/adc/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

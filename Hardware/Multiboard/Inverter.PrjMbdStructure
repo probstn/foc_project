@@ -1,0 +1,2 @@
+Record=DiagramHierarchy|SourceDocument=inverter_assembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\inverter_dev_hw\inverter.PrjPcb
+Record=SubProject|SourceDocument=inverter_assembly.MbsDoc|ProjectPath=..\inverter_dev_hw\inverter.PrjPcb

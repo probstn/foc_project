@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GND Pin=C9_A-1
+Removed Pin From Net: NetName=+12V Pin=C9_A-2
+Removed Pin From Net: NetName=GND Pin=C9_B-1
+Removed Pin From Net: NetName=+12V Pin=C9_B-2
+Removed Pin From Net: NetName=GND Pin=C9_C-1
+Removed Pin From Net: NetName=+12V Pin=C9_C-2
+Change Component Footprint: Designator=C9_A Old Footprint=CAP_1210 New Footprint=CAP_0603
+Change Component Footprint: Designator=C9_B Old Footprint=CAP_1210 New Footprint=CAP_0603
+Change Component Footprint: Designator=C9_C Old Footprint=CAP_1210 New Footprint=CAP_0603
+Change Component Comment : Designator=C9_A Old Comment=16V 47u New Comment=1u 12V
+Change Component Comment : Designator=C9_B Old Comment=16V 47u New Comment=1u 12V
+Change Component Comment : Designator=C9_C Old Comment=16V 47u New Comment=1u 12V
+Change component parameters: Designator = "C9_A" ("C9"); Footprint = "CAP_1210"; UniqueID = "\NILCYZSH\APEJLVUL" ("\NILCYZSH\APEJLVUL")
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9_B" ("C9"); Footprint = "CAP_1210"; UniqueID = "\LXYLCXQH\APEJLVUL" ("\LXYLCXQH\APEJLVUL")
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9_C" ("C9"); Footprint = "CAP_1210"; UniqueID = "\ZGARPMOX\APEJLVUL" ("\ZGARPMOX\APEJLVUL")
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=C9_A-1
+Added Pin To Net: NetName=GND Pin=C9_A-2
+Added Pin To Net: NetName=+12V Pin=C9_B-1
+Added Pin To Net: NetName=GND Pin=C9_B-2
+Added Pin To Net: NetName=+12V Pin=C9_C-1
+Added Pin To Net: NetName=GND Pin=C9_C-2

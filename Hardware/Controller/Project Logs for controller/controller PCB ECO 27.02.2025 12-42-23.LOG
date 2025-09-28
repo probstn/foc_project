@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=+100V Pin=PH2-1
+Removed Pin From Net: NetName=+3V3 Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Member From Class: ClassName=Driver Member=C24
+Removed Member From Class: ClassName=Driver Member=R12
+Removed Member From Class: ClassName=Driver Member=R19
+Added Component: Designator=R3(RES_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=R3-2
+Added Pin To Net: NetName=NTC Pin=PH2-1
+Added Pin To Net: NetName=NTC Pin=R3-1
+Added Pin To Net: NetName=NTC Pin=U1-25
+Added Net: Name=NTC
+Added Member To Class: ClassName=Overview Member=Component R3 10k

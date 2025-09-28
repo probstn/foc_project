@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=SH_A Pin=R?-1
+Removed Pin From Net: NetName=NetP?_1 Pin=R?-2
+Change Component Footprint: Designator=R? Old Footprint=ASR-M-7-0.2J-t3 New Footprint=ASR-M-5-0.2F-t1
+Change Component Comment : Designator=R? Old Comment=SHUNT_0m2 New Comment=SHUNT_0m2_3920
+Change component parameters: Designator = "R?" ("R?"); Footprint = "ASR-M-7-0.2J-t3"; UniqueID = "\AYCJUYWY" ("\AYCJUYWY")
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C469432"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "Shenzhen Yezhan Elec."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "ASR-M-5-0.2F-t1"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin P?-1
+Added Pin To Net: NetName=NetP?_1 Pin=R?-1
+Added Pin To Net: NetName=SH_A Pin=R?-2
+Add Net: Net with name "NetQ?_1" already exists
+Added Member To Class: ClassName=inverter Member=Component C? 4u7
+Added Member To Class: ClassName=inverter Member=Component C? 4u7
+Added Member To Class: ClassName=inverter Member=Component C? 100n
+Added Member To Class: ClassName=inverter Member=Component C? 100n
+Added Member To Class: ClassName=mcu Member=Component C? 100n
+Added Member To Class: ClassName=mcu Member=Component C? 100n
+Added Member To Class: ClassName=mcu Member=Component C? 100n
+Added Member To Class: ClassName=mcu Member=Component C? 100n
+Added Member To Class: ClassName=mcu Member=Component C? 10p
+Added Member To Class: ClassName=mcu Member=Component C? 10p
+Added Member To Class: ClassName=mcu Member=Component C? 1u
+Added Member To Class: ClassName=inverter Member=Component Q? IPT015N10N5
+Added Member To Class: ClassName=inverter Member=Component R? 56k
+Added Member To Class: ClassName=inverter Member=Component R? 1R
+Added Member To Class: ClassName=inverter Member=Component R? SHUNT_0m2_3920
+Added Member To Class: ClassName=inverter Member=Component R? 1R
+Added Member To Class: ClassName=mcu Member=Component R? 22R

@@ -1,0 +1,153 @@
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=+3V3 Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=+3V3 Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=+3V3 Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=C42-1
+Removed Pin From Net: NetName=+3V3 Pin=C42-2
+Removed Pin From Net: NetName=GND Pin=C43-1
+Removed Pin From Net: NetName=+3V3 Pin=C43-2
+Removed Pin From Net: NetName=+3V3 Pin=R28-2
+Removed Pin From Net: NetName=+3V3 Pin=R29-2
+Removed Pin From Net: NetName=VOLT_A Pin=U1-10
+Removed Pin From Net: NetName=VOLT_B Pin=U1-11
+Removed Pin From Net: NetName=VOLT_C Pin=U1-12
+Removed Pin From Net: NetName=CURR_A Pin=U1-14
+Removed Pin From Net: NetName=CURR_B Pin=U1-15
+Removed Pin From Net: NetName=CURR_C Pin=U1-16
+Removed Pin From Net: NetName=LOW_A Pin=U1-17
+Removed Pin From Net: NetName=NTC Pin=U1-25
+Removed Pin From Net: NetName=CURR_A Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=SH_A Pin=U2-3
+Removed Pin From Net: NetName=PH_A Pin=U2-4
+Removed Pin From Net: NetName=CURR_B Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=SH_B Pin=U4-3
+Removed Pin From Net: NetName=PH_B Pin=U4-4
+Removed Pin From Net: NetName=CURR_C Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-2
+Removed Pin From Net: NetName=SH_C Pin=U6-3
+Removed Pin From Net: NetName=PH_C Pin=U6-4
+Removed Pin From Net: NetName=+3V3 Pin=U12-5
+Removed Pin From Net: NetName=GND Pin=U12-6
+Removed Pin From Net: NetName=GND Pin=U12-7
+Removed Pin From Net: NetName=+3V3 Pin=U12-8
+Removed Pin From Net: NetName=GND Pin=XH1-1
+Removed Pin From Net: NetName=+5V Pin=XH1-2
+Removed Pin From Net: NetName=GND Pin=XH2-1
+Removed Pin From Net: NetName=+5V Pin=XH2-2
+Removed Pin From Net: NetName=GND Pin=XH3-1
+Removed Pin From Net: NetName=+3V3 Pin=XH3-2
+Removed Pin From Net: NetName=GND Pin=XH4-1
+Removed Pin From Net: NetName=+3V3 Pin=XH4-2
+Removed Member From Class: ClassName=Driver Member=C15
+Removed Member From Class: ClassName=Driver Member=C23
+Removed Member From Class: ClassName=Driver Member=C32
+Removed Member From Class: ClassName=Overview Member=R28
+Removed Member From Class: ClassName=Overview Member=R29
+Removed Member From Class: ClassName=Overview Member=XH1
+Removed Member From Class: ClassName=Overview Member=XH2
+Removed Member From Class: ClassName=Overview Member=XH3
+Removed Member From Class: ClassName=Overview Member=XH4
+Change Component Footprint: Designator=U2 Old Footprint=INA180A2IDBVR New Footprint=INA240A1PWR
+Change Component Footprint: Designator=U4 Old Footprint=INA180A2IDBVR New Footprint=INA240A1PWR
+Change Component Footprint: Designator=U6 Old Footprint=INA180A2IDBVR New Footprint=INA240A1PWR
+Change Component Footprint: Designator=U1 Old Footprint=STM32F303CBT6 New Footprint=STM32F103CBT6
+Change Component Comment : Designator=U2 Old Comment=INA180A2IDBVR New Comment=INA240A1PWR
+Change Component Comment : Designator=U4 Old Comment=INA180A2IDBVR New Comment=INA240A1PWR
+Change Component Comment : Designator=U6 Old Comment=INA180A2IDBVR New Comment=INA240A1PWR
+Change Component Comment : Designator=U1 Old Comment=STM32F303CBT6 New Comment=STM32F103CBT6
+Change component parameters: Designator = "U1" ("U1"); Footprint = "STM32F303CBT6"; UniqueID = "\GHEKUDHE\DVSBRFUX" ("\GHEKUDHE\DVSBRFUX")
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C8304"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "STM32F103CBT6"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "INA180A2IDBVR"; UniqueID = "\YFMAFFQF\JWRIVZGR" ("\YFMAFFQF\JWRIVZGR")
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C93965"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "INA240A1PWR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4" ("U4"); Footprint = "INA180A2IDBVR"; UniqueID = "\YFMAFFQF\VSQKVSVH" ("\YFMAFFQF\VSQKVSVH")
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C93965"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "INA240A1PWR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "INA180A2IDBVR"; UniqueID = "\YFMAFFQF\SRCGHXQO" ("\YFMAFFQF\SRCGHXQO")
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C93965"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "INA240A1PWR"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+3V3 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+3V3 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=+3V3 Pin=C12-2
+Added Pin To Net: NetName=CURR_A Pin=U1-10
+Added Pin To Net: NetName=CURR_B Pin=U1-11
+Added Pin To Net: NetName=CURR_C Pin=U1-12
+Added Pin To Net: NetName=VOLT_A Pin=U1-13
+Added Pin To Net: NetName=VOLT_B Pin=U1-14
+Added Pin To Net: NetName=VOLT_C Pin=U1-15
+Added Pin To Net: NetName=NTC Pin=U1-17
+Added Pin To Net: NetName=LOW_A Pin=U1-26
+Added Pin To Net: NetName=SH_A Pin=U2-2
+Added Pin To Net: NetName=PH_A Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=+3V3 Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=CURR_A Pin=U2-8
+Added Pin To Net: NetName=SH_B Pin=U4-2
+Added Pin To Net: NetName=PH_B Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=+3V3 Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Pin To Net: NetName=CURR_B Pin=U4-8
+Added Pin To Net: NetName=SH_C Pin=U6-2
+Added Pin To Net: NetName=PH_C Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=+3V3 Pin=U6-6
+Added Pin To Net: NetName=GND Pin=U6-7
+Added Pin To Net: NetName=CURR_C Pin=U6-8
+Change Net Name : Old Net Name=HALL_1 New Net Name=NetU1_18
+Change Net Name : Old Net Name=HALL_2 New Net Name=NetU1_19
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=U1-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=U1-3
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=R27-2
+Added Pin To Net: NetName=NetR26_1 Pin=U1-16
+Added Net: Name=NetR26_1
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Pin To Net: NetName=NetU1_4 Pin=XH6-3
+Added Net: Name=NetU1_4
+Added Pin To Net: NetName=NetU1_42 Pin=U1-42
+Added Pin To Net: NetName=NetU1_42 Pin=XH7-3
+Added Net: Name=NetU1_42
+Added Pin To Net: NetName=NetU1_43 Pin=U1-43
+Added Pin To Net: NetName=NetU1_43 Pin=XH7-2
+Added Net: Name=NetU1_43
+Added Member To Class: ClassName=Driver Member=Component C10 100n
+Added Member To Class: ClassName=Driver Member=Component C11 100n
+Added Member To Class: ClassName=Driver Member=Component C12 100n

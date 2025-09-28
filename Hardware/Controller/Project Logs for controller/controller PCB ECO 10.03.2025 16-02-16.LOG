@@ -1,0 +1,179 @@
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAP_1210"; UniqueID = "\YFMAFFQF\QKSAMEOJ" ("\YFMAFFQF\QKSAMEOJ")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C77101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "GRM32ER61C476KE15L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAP_0603"; UniqueID = "\YFMAFFQF\QBYRBYWQ" ("\YFMAFFQF\QBYRBYWQ")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAP_0603"; UniqueID = "\YFMAFFQF\SXCTEKXT" ("\YFMAFFQF\SXCTEKXT")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "CAP_0603"; UniqueID = "\YFMAFFQF\GPELAPWH" ("\YFMAFFQF\GPELAPWH")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAP_0603"; UniqueID = "\YFMAFFQF\EZPVSPZG" ("\YFMAFFQF\EZPVSPZG")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAP_0603"; UniqueID = "\YFMAFFQF\NIVTDAMC" ("\YFMAFFQF\NIVTDAMC")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "CAP_1210"; UniqueID = "\YFMAFFQF\DIZAXVUU" ("\YFMAFFQF\DIZAXVUU")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C77101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "GRM32ER61C476KE15L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAP_0603"; UniqueID = "\YFMAFFQF\KXZAGUGZ" ("\YFMAFFQF\KXZAGUGZ")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAP_0603"; UniqueID = "\YFMAFFQF\JNVCYVCM" ("\YFMAFFQF\JNVCYVCM")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "CAP_1210"; UniqueID = "\YFMAFFQF\CYAOGFCH" ("\YFMAFFQF\CYAOGFCH")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C77101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "GRM32ER61C476KE15L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31" ("C31"); Footprint = "CAP_0603"; UniqueID = "\YFMAFFQF\BNUEARFV" ("\YFMAFFQF\BNUEARFV")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33" ("C33"); Footprint = "CAP_0603"; UniqueID = "\YFMAFFQF\UKDSOBXF" ("\YFMAFFQF\UKDSOBXF")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RES_0603"; UniqueID = "\YFMAFFQF\FQVXPJOS" ("\YFMAFFQF\FQVXPJOS")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RES_0603"; UniqueID = "\YFMAFFQF\YNXAGDEL" ("\YFMAFFQF\YNXAGDEL")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RES_0603"; UniqueID = "\YFMAFFQF\SIRSDKYA" ("\YFMAFFQF\SIRSDKYA")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "RES_0603"; UniqueID = "\YFMAFFQF\BWYSWCYR" ("\YFMAFFQF\BWYSWCYR")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "RES_0603"; UniqueID = "\YFMAFFQF\BKJASNCM" ("\YFMAFFQF\BKJASNCM")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "RES_0603"; UniqueID = "\YFMAFFQF\XOCDYGSZ" ("\YFMAFFQF\XOCDYGSZ")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "INA240A1PWR"; UniqueID = "\YFMAFFQF\JWRIVZGR" ("\YFMAFFQF\JWRIVZGR")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C93965"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "INA240A1PWR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "UCC27282DR"; UniqueID = "\YFMAFFQF\NSJVCBAR" ("\YFMAFFQF\NSJVCBAR")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C2867844"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "UCC27282DR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4" ("U4"); Footprint = "INA240A1PWR"; UniqueID = "\YFMAFFQF\VSQKVSVH" ("\YFMAFFQF\VSQKVSVH")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C93965"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "INA240A1PWR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5" ("U5"); Footprint = "UCC27282DR"; UniqueID = "\YFMAFFQF\AXBSKCLY" ("\YFMAFFQF\AXBSKCLY")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C2867844"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "UCC27282DR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "INA240A1PWR"; UniqueID = "\YFMAFFQF\SRCGHXQO" ("\YFMAFFQF\SRCGHXQO")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C93965"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "INA240A1PWR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U7" ("U7"); Footprint = "UCC27282DR"; UniqueID = "\YFMAFFQF\MFWSLGUU" ("\YFMAFFQF\MFWSLGUU")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "PhaseC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C2867844"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr."; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "UCC27282DR"; VariantName = "[No Variations]"
+Added Component: Designator=LED5(GREEN_0603)
+Add component (AddParameter): Name = "LCSC"; Value = "C965804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = "XINGLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "XL-1608UGC-04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RES_0603)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=+3V3 Pin=LED5-2
+Added Pin To Net: NetName=GND Pin=R41-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R41-2
+Added Class: Name=PhaseA
+Added Class: Name=PhaseB
+Added Class: Name=PhaseC
+Added Member To Class: ClassName=Power Member=Component LED5 GREEN_0603
+Added Member To Class: ClassName=Power Member=Component R41 30R
+Added Room: Name=PhaseA
+Added Room: Name=PhaseB
+Added Room: Name=PhaseC
